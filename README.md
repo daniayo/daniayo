@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://www.instagram.com/daniayo_/" target="_blank"><img src="https://img.shields.io/badge/daniayo-E4405F?style=flat-square&logo=instagram&logoColor=FFFFFF"/></a>
+<a href="https://www.instagram.com/daniayo_/" target="_blank"><img src="https://img.shields.io/badge/daniayo-E4405F?style=flat-square&logo=instagram&logoColor=FFFFFF"/></a> \n
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniayo&show_icons=true&theme=cobalt)
