@@ -18,5 +18,3 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/daniayo_/" target="_blank"><img src="https://img.shields.io/badge/daniayo-E4405F?style=flat-square&logo=instagram&logoColor=FFFFFF"/></a>
 
 I'm student of Ewha Womans University.
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniayo&show_icons=true&theme=cobalt)
